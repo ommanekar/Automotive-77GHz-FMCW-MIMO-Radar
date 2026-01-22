@@ -1,4 +1,4 @@
-<img width="836" height="524" alt="Image" src="https://github.com/user-attachments/assets/0416e979-8835-4f7c-b090-d1cf0feda756" />
+<img width="736" height="424" alt="Image" src="https://github.com/user-attachments/assets/0416e979-8835-4f7c-b090-d1cf0feda756" />
 
 # Automotive 77GHz FMCW MIMO Radar
 
