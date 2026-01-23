@@ -17,15 +17,15 @@ The radar operates at 77 GHz, the standard frequency band for automotive and ADA
 - Angle-of-arrival estimation using:
   - FFT-based beamforming
   - MUSIC
-  - Spatial Smoothing MUSIC (SS-MUSIC)  
+  - Spatial Smoothing MUSIC
 - Comparison between conventional and high-resolution AoA methods
 
 ## Algorithms Used
 
-- Fast Fourier Transform (FFT)
+- Fast Fourier Transform
 - Range–Doppler Processing
-- Cell-Averaging CFAR (2D)
+- Cell-Averaging CFAR 
 - Beamforming
 - MUSIC Algorithm
-- Spatial Smoothing MUSIC (SS-MUSIC)
+- Spatial Smoothing MUSIC
 
